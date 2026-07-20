@@ -1,0 +1,26 @@
+[
+  {
+    "name": "London",
+    "country": "UK",
+    "latitude": 51.5074,
+    "longitude": -0.1278
+  },
+  {
+    "name": "Tokyo",
+    "country": "Japan",
+    "latitude": 35.6762,
+    "longitude": 139.6503
+  },
+  {
+    "name": "New York",
+    "country": "USA",
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  },
+  {
+    "name": "Sydney",
+    "country": "Australia",
+    "latitude": -33.8688,
+    "longitude": 151.2093
+  }
+]
